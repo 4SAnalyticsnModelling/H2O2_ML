@@ -1,0 +1,38 @@
+study_no,references,reactor_type,total_volume,cathode_volume,anode_volume,cathode_to_anode_ratio,substrate,anode_electrode,cathode_electrode,cathode_operating_mode,separator,applied_voltage,production_rate
+1,"(Li et al., 2016)",MEC,0.0000420,0.0001400,0.0000280,0.5,Acetate,Carbon Fiber,Surface Modified/Composite Electrode,Continuous,CEM,0.6,0.079
+2,"(Zou et al., 2020)",MEC,0.0200000,0.0100000,0.0100000,1,Acetate,Carbon Brush,Graphite,Continuous,CEM,0.1,0.16
+3,"(Wang et al., 2017)",MFC,0.0002500,0.0001250,0.0001250,1,Glucose,Graphite,Graphite,Continuous,CEM,0,0.0096
+37,"(Chakraborty et al., 2021)",MFC,0.0002000,0.0001000,0.0001000,1,Acetate,Carbon Felt,Surface Modified/Composite Electrode,Batch,CEM,0,0.32
+38,"(Feng et al., 2010)",MFC,0.0001512,0.0000756,0.0000756,1,Lactate,Carbon Felt,Surface Modified/Composite Electrode,Batch,CEM,0,0.0015
+39,"(Das et al., 2020)",MFC,0.0002000,0.0001000,0.0001000,1,Sucrose,Carbon Felt,Surface Modified/Composite Electrode,Batch,CEM,0,7.353
+40,"(Das et al., 2020)",MFC,0.0002000,0.0001000,0.0001000,1,Sucrose,Carbon Felt,Surface Modified/Composite Electrode,Batch,CEM,0,8.574
+41,"(Asghar et al., 2017b)",MFC,0.0005000,0.0002500,0.0002500,1,Acetate,Graphite,Surface Modified/Composite Electrode,Batch,CEM,0,0.3
+42,"(Wang et al., 2017)",MFC,0.0002500,0.0001250,0.0001250,1,Glucose,Graphite,Graphite,Batch,CEM,0,0.0063
+43,"(Ki et al., 2017)",MEC,0.0006200,0.0001200,0.0005000,0.24,Primary Sludge,Carbon Fiber,Carbon Cloth,Batch,AEM,0.2,0.92
+44,"(Griffin et al., 2018)",MEC,0.0003000,0.0001000,0.0002000,0.5,Acetate,Carbon Felt,GDE,Batch,AEM,0.78,3.048
+45,"(Sim et al., 2018)",MEC,0.1100000,0.0100000,0.1000000,0.1,Acetate,Carbon Fiber,GDE,Batch,AEM,1.8,0.00047
+46,"(Young et al., 2016)",MEC,0.0002180,0.0000180,0.0002000,0.09,Acetate,Carbon Fiber,Carbon Cloth,Continuous,AEM,0.31,18.6
+47,"(You et al., 2010)",MFC,0.0000280,0.0000140,0.0000140,1,Glucose,Surface Modified/Composite Electrode,Activated Carbon,Batch,CEM,0,4.22
+48,"(Chen et al., 2014)",MFC,0.0002535,0.0001690,0.0000845,2,Acetate,Carbon Felt,Activated Carbon,Batch,CEM,0,0.16
+49,"(Chen et al., 2014)",MFC,0.0002535,0.0001690,0.0000845,2,Acetate,Carbon Felt,Carbon Black ,Batch,CEM,0,0.17
+50,"(Liu et al., 2011)",MFC,0.0001700,0.0000850,0.0000850,1,Glucose,Carbon Felt,Carbon Felt,Batch,CEM,0,0.0096
+51,"(Das et al., 2020)",MFC,0.0002000,0.0001000,0.0001000,1,Sucrose,Carbon Felt,Carbon Felt,Batch,CEM,0,3.329
+52,"(Modin & Fukushi, 2013)",MFC,0.0000280,0.0000050,0.0000230,0.22,Acetate,Carbon Felt,GDE,Batch,CEM,0,11.05
+53,"(Modin & Fukushi, 2013)",MFC,0.0000280,0.0000050,0.0000230,0.22,Municipal Wastewater,Carbon Felt,GDE,Batch,CEM,0,6.027
+54,"(Sim et al., 2015)",MEC,0.0003590,0.0000700,0.0002890,0.24,Acetate,Carbon Fiber,GDE,Batch,CEM,1.5,3.38
+55,"(Sim et al., 2018)",MEC,0.1100000,0.0100000,0.1000000,0.1,Acetate,Carbon Fiber,GDE,Batch,CEM,1.3,0.0062
+56,"(Sim et al., 2015)",MEC,0.0003590,0.0000700,0.0002890,0.24,Municipal Wastewater,Carbon Fiber,GDE,Batch,CEM,8.6,0.144
+57,"(Rozendal et al., 2009)",MEC,0.0006800,0.0003360,0.0003360,1,Acetate,Graphite,GDE,Batch,CEM,0.5,1.9
+58,"(Dong et al., 2018)",MFC,0.0000350,0.0000070,0.0000280,0.25,Acetate,Carbon Brush,Graphene,Batch,CEM,0,0.33
+59,"(Miran et al., 2017)",MEC,0.0004000,0.0002000,0.0002000,1,Lactate,Carbon Felt,Graphite,Batch,CEM,0.2,0.0876
+60,"(Miran et al., 2017)",MEC,0.0004000,0.0002000,0.0002000,1,Lactate,Carbon Felt,Graphite,Batch,CEM,0.4,0.1326
+61,"(Miran et al., 2017)",MEC,0.0004000,0.0002000,0.0002000,1,Lactate,Carbon Felt,Graphite,Batch,CEM,0.6,0.0574
+62,"(Chen et al., 2015)",MFC,0.0000960,0.0000640,0.0000320,2,Acetate,Carbon Felt,Graphite,Batch,CEM,0,2.12
+63,"(Chen et al., 2014)",MFC,0.0002535,0.0001690,0.0000845,2,Acetate,Carbon Felt,Graphite,Batch,CEM,0,0.2
+64,"(Asghar et al., 2017a)",MFC,0.0005000,0.0002500,0.0002500,1,Acetate,Graphite,Graphite,Batch,CEM,0,0.28
+65,"(Asghar et al., 2017b)",MFC,0.0005000,0.0002500,0.0002500,1,Acetate,Graphite,Graphite,Batch,CEM,0,0.24
+66,"(Fu et al., 2010)",MFC,0.0001600,0.0000800,0.0000800,1,Glucose,Graphite,Graphite,Batch,CEM,0,0.15
+67,"(Zhao et al., 2019)",MEC,0.0002240,0.0000740,0.0001500,0.49,Acetate,Carbon Brush,Surface Modified/Composite Electrode,Batch,CEM,0.1,0.3024
+68,"(Zhao et al., 2019)",MEC,0.0002240,0.0000740,0.0001500,0.49,Acetate,Carbon Brush,Surface Modified/Composite Electrode,Batch,CEM,0.6,1.519
+69,"(Zhao et al., 2019)",MEC,0.0002240,0.0000740,0.0001500,0.49,Acetate,Carbon Brush,Surface Modified/Composite Electrode,Batch,CEM,0.7,1.044
+70,"(Li et al., 2018)",MFC,0.0000960,0.0000640,0.0000320,2,Acetate,Carbon Felt,Surface Modified/Composite Electrode,Batch,CEM,0,0.0372
